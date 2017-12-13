@@ -1,4 +1,4 @@
-## Welcome to Matthew Wu's Website
+Welcome to Matthew Wu's Website
 
 mw21@illinois.edu
 
