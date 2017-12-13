@@ -13,30 +13,17 @@ _About Me_
 
 Matthew Wu is a Freshman earning a Bachelor of Science in Engineering at the University at Illinois Urbana - Champaign. 
 
-```markdown
-Syntax highlighted code block
+Education:
 
-# Header 1
-## Header 2
-### Header 3
+**University of Illinois Urbana-Champaign** 
+Urbana, Illinois (August 2017 – Present)
+•	Bachelor of Science in Engineering Undeclared – May 2021
+•	GPA: 4.00/4.00
 
-- Bulleted
-- List
+**Luanda International School** 
+Luanda, Angola (August 2016 – May 2017)
+•	Graduated 2017 with an International Baccalaureate Diploma
+•	IB Score: 35
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mw21uiuc/mw21uiuc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**International School of Beijing** 		Beijing, China (August 2015 – May 2016)
+**Nanjing International School** 		Nanjing, China (August 2014 – May 2015)
