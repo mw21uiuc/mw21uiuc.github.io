@@ -2,10 +2,13 @@
 
 mw21@illinois.edu
 
+Saunders Hall 408A
+902 College Ct.
+Urbana, IL 61801
 
-### Markdown
+_About Me_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Matthew Wu is a Freshman earning a Bachelor of Science in Engineering at the University at Illinois Urbana - Champaign. 
 
 ```markdown
 Syntax highlighted code block
